@@ -22,7 +22,7 @@ Abra o Prompt de comando e executar o comando para instalar as dependências:
 npm install
 ```
 
-Execute os comando abaixo para a execução dos testes de Login e do carrinho de compras:
+Execute os comandos abaixo para a execução dos testes de Login e do carrinho de compras:
 
 ```bash
 npm run test:e2e
